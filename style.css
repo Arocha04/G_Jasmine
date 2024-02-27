@@ -1,11 +1,20 @@
 body{
     margin :0;
-    background-color:purple;
+    background-color:gray;
     
 }h1{
     text-align:center;
 }h2{
     text-align:center;
+
+}img{ 
+    margine-right:80%;
+    width:120px;
+    height:150px;
+    border-raduis:100px;
+
     
 }
+
+
  
